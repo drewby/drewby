@@ -27,7 +27,8 @@ I'm writing a newsletter on Observability: A Platform Engineer's Perspective. Fr
         background-color: #0A66C2;
         font-family: "SF Pro Text", Helvetica, sans-serif;
       }
-    </style>
+</style>
+
 <a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7056157670537375744" target="_blank">Subscribe on LinkedIn</a>
 
 ## 🚀 Shonan Code Summit
