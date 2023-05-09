@@ -7,9 +7,32 @@ I'm passionate about improving the efficiency and effectiveness of engineers in 
 - [OpenTelemetry](https://github.com/open-telemetry) - An observability framework for cloud-native software
 - [Dapr](https://github.com/dapr) - A portable, event-driven, runtime for building distributed applications across cloud and edge
 
+## ✨ Observability newsletter 
+
+I'm writing a newsletter on Observability: A Platform Engineer's Perspective. From high level concepts to diving deep into code.  
+
+<style>
+      .libutton {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 7px;
+        text-align: center;
+        outline: none;
+        text-decoration: none !important;
+        color: #ffffff !important;
+        width: 200px;
+        height: 32px;
+        border-radius: 16px;
+        background-color: #0A66C2;
+        font-family: "SF Pro Text", Helvetica, sans-serif;
+      }
+    </style>
+<a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7056157670537375744" target="_blank">Subscribe on LinkedIn</a>
+
 ## 🚀 Shonan Code Summit
 
-I'm creating a community-driven event called [Shonan Code Summit](https://github.com/ShoCodeJP/ShoCode). Feel free to check it out and contribute!
+We are creating a community-driven event called [Shonan Code Summit](https://github.com/ShoCodeJP/ShoCode). Feel free to check it out and contribute!
 
 ## 🌐 Connect with me
 
