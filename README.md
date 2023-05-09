@@ -2,6 +2,16 @@
 
 I'm passionate about improving the efficiency and effectiveness of engineers in their daily work, with a particular interest in observability and platform engineering. 
 
+[![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-blue?logo=opentelemetry)](https://opentelemetry.io/)
+[![Dapr](https://img.shields.io/badge/Dapr-blueviolet?logo=dapr)](https://dapr.io/)
+[![Zipkin](https://img.shields.io/badge/Zipkin-brightgreen?logo=apache)](https://zipkin.io/)
+[![.NET](https://img.shields.io/badge/.NET-5C2D91?logo=.net)](https://dotnet.microsoft.com/)
+[![C#](https://img.shields.io/badge/C%23-239120?logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go)](https://golang.org/)
+[![Rust](https://img.shields.io/badge/Rust-black?logo=rust)](https://www.rust-lang.org/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode)](https://code.visualstudio.com/)
+[![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure)](https://azure.microsoft.com/)
+
 ## 🌱 Current Interests
 
 - [OpenTelemetry](https://github.com/open-telemetry) - An observability framework for cloud-native software
