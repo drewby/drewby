@@ -1,3 +1,5 @@
+[![日本語](https://img.shields.io/badge/%F0%9F%87%AF%F0%9F%87%B5-日本語-white?style=plastic)](README_jp.md)
+
 # Hi there, I'm Drew! 👋
 
 I'm passionate about improving the efficiency and effectiveness of engineers in their daily work, with a particular interest in observability and platform engineering. 
