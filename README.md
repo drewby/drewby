@@ -4,6 +4,7 @@
 
 I'm passionate about improving the efficiency and effectiveness of engineers in their daily work, with a particular interest in observability and platform engineering. 
 
+[![OpenAI](https://img.shields.io/badge/OpenAI-red?logo=openai)](https://openai.com)
 [![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-blue?logo=opentelemetry)](https://opentelemetry.io/)
 [![Dapr](https://img.shields.io/badge/Dapr-blueviolet?logo=dapr)](https://dapr.io/)
 [![Zipkin](https://img.shields.io/badge/Zipkin-brightgreen?logo=apache)](https://zipkin.io/)
