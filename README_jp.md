@@ -16,6 +16,7 @@
 
 ## 🌱 現在の興味
 
+- [OpenAI](https://openai.com) と [Azure OpenAI](https://learn.microsoft.com/en-us/azure/ai-services/openai/overview) - Generative AI は、作成するものと作成方法の両方でソフトウェアを変化させています。 [RecipeGen](https://github.com/drewby/RecipeGen) は私の学習プロジェクトの 1 つです。
 - [OpenTelemetry](https://github.com/open-telemetry) - クラウドネイティブソフトウェアの観測フレームワーク
 - [Dapr](https://github.com/dapr) - クラウドとエッジで分散アプリケーションを構築するためのポータブルでイベント駆動のランタイム
 
