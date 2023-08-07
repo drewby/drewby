@@ -4,6 +4,7 @@
 
 エンジニアの日々の仕事をより効率的かつ効果的にすることに情熱を持っており、特に観測可能性とプラットフォームエンジニアリングに興味があります。
 
+[![OpenAI](https://img.shields.io/badge/OpenAI-red?logo=openai)](https://openai.com)
 [![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-blue?logo=opentelemetry)](https://opentelemetry.io/)
 [![Dapr](https://img.shields.io/badge/Dapr-blueviolet?logo=dapr)](https://dapr.io/)
 [![Zipkin](https://img.shields.io/badge/Zipkin-brightgreen?logo=apache)](https://zipkin.io/)
