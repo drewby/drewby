@@ -16,6 +16,7 @@ I'm passionate about improving the efficiency and effectiveness of engineers in 
 
 ## 🌱 Current Interests
 
+- [OpenAI](https://openai.com) and [Azure OpenAI](https://learn.microsoft.com/en-us/azure/ai-services/openai/overview) - Generative AI is changing software, both what we create and how we create it. [RecipeGen](https://github.com/drewby/RecipeGen) is one of my learning projects.
 - [OpenTelemetry](https://github.com/open-telemetry) - An observability framework for cloud-native software
 - [Dapr](https://github.com/dapr) - A portable, event-driven, runtime for building distributed applications across cloud and edge
 
