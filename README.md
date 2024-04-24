@@ -21,6 +21,12 @@ I'm passionate about improving the efficiency and effectiveness of engineers in 
 - [OpenTelemetry](https://github.com/open-telemetry) - An observability framework for cloud-native software
 - [Dapr](https://github.com/dapr) - A portable, event-driven, runtime for building distributed applications across cloud and edge
 
+## ⚙️ Generative AI Semantic Conventions 
+
+A working group in the [OpenTelemetry](https://github.com/open-telemetry) project to define semantic conventions to be used when monitoring Generative AI applications.
+
+[Working Group Charter](https://github.com/open-telemetry/community/blob/main/projects/llm-semconv.md)
+
 ## ✨ Observability newsletter 
 
 I'm writing a newsletter on Observability: A Platform Engineer's Perspective. From high level concepts to diving deep into code.  
