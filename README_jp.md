@@ -21,6 +21,12 @@
 - [OpenTelemetry](https://github.com/open-telemetry) - クラウドネイティブソフトウェアの観測フレームワーク
 - [Dapr](https://github.com/dapr) - クラウドとエッジで分散アプリケーションを構築するためのポータブルでイベント駆動のランタイム
 
+## ⚙️ Generative AI セマンティック規約
+
+Generative AI アプリケーションの監視に使用されるセマンティック規約を定義するための OpenTelemetry プロジェクト内の作業グループ。
+
+[作業グループの憲章](https://github.com/open-telemetry/community/blob/main/projects/llm-semconv.md)
+
 ## ✨ 観測可能性ニュースレター 
 
 「観測可能性：プラットフォームエンジニアの視点」についてのニュースレターを書いています。高レベルの概念からコードの深い部分まで。
