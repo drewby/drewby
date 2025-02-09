@@ -42,11 +42,6 @@ We are creating a community-driven event called [Shonan Code Summit](https://git
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/drewby/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=Github&logoColor=white)](https://github.com/drewby)
 
-## 🏆 My GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=drewby&show_icons=true&theme=radical)
-
-
 <!--
 **drewby/drewby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
