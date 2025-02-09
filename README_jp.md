@@ -42,7 +42,4 @@ Generative AI アプリケーションの監視に使用されるセマンティ
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/drewby/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=Github&logoColor=white)](https://github.com/drewby)
 
-## 🏆 私のGitHub統計
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=drewby&show_icons=true&theme=radical)
 ```
